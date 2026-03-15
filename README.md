@@ -1,11 +1,17 @@
 # Financing Simulator
 
-Simple Python simulator to calculate loan financing payments.
+Academic project developed in Java to simulate loan financing.
 
 ## Features
-- Calculate monthly financing payments
-- Simulate loans based on interest rate and number of months
-- Simple financial calculator
+- Calculate loan installments
+- Simulate financing scenarios
+- Calculate interest based on user input
 
 ## Technologies
-- Python
+- Java
+
+## How to run
+
+1. Clone the repository
+2. Open the project in your IDE (IntelliJ or Eclipse)
+3. Run the main class
